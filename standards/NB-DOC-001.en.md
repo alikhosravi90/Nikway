@@ -1,7 +1,7 @@
 # NIKWAY Documentation and Living Book Standard
 
 **ID:** NB-DOC-001  
-**Version:** 0.1.1  
+**Version:** 0.2.0  
 **Status:** Proposed, not approved  
 **Document date:** 2026-10-31  
 **Exact event time:** Not recorded  
@@ -95,7 +95,16 @@ Simple text-based source files remain primary. Website, PDF, and e-book outputs 
 - [ ] Persian layout and print output are checked when needed.
 - [ ] Required approval is recorded.
 
-## 14. Status
+## 14. Translation Sync
+Each bilingual document must record a shared content ID, Persian revision, English revision, translation source revision, and sync status.
+
+**Change rule:** A meaning-changing edit to the Persian source marks the linked English edition as **Needs Review** until it is checked. Minor editorial changes only trigger review when they affect translation.
+
+**Proposed automated check:** Compare the current Persian revision with the revision used for the English translation and warn if they differ. This check is **not yet implemented or run**.
+
+**Style and terminology:** [Persian writing guide](NB-STYLE-FA-001.md), [Persian glossary](../glossary/terms.fa.md), [English glossary](../glossary/terms.en.md).
+
+## 15. Status
 This standard is still **proposed**. Older projects and assets must not be deleted, merged, or rewritten without separate permission. This document does not prove that running services have stopped.
 
 **Next:** Review and approve the standard, then record the first journal event and book chapter.
