@@ -1,7 +1,7 @@
 # NIKWAY Documentation and Living Book Standard
 
 **ID:** NB-DOC-001  
-**Version:** 0.2.0  
+**Version:** 1.0.0  
 **Status:** Proposed, not approved  
 **Document date:** 2026-10-31  
 **Exact event time:** Not recorded  
@@ -66,7 +66,7 @@ Keep the two editions in separate files, with a shared content ID, version, and 
 Translation status: Not Started, Draft, In Review, Synchronized. Prefer clear everyday words while keeping official names and technical IDs accurate.
 
 ## 9. Versions
-Use three-part versions, such as 0.1.1: major change, compatible addition, small fix.
+Use three-part versions, such as 1.0.0: major change, compatible addition, small fix.
 
 Document, book, model, and software versions are separate. Published versions should link to a specific Git change and release date.
 
