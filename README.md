@@ -1,83 +1,107 @@
 # NIKWAY | نیک‌وی
 
-**From Questions to Systems | از پرسش تا سیستم**
+**From Chaos to Structured Clarity | از آشفتگی تا شفافیت ساختاریافته**
 
 [فارسی](#فارسی) · [English](#english)
 
 <a id="فارسی"></a>
-## فارسی
+## نیک‌وی چیست؟
 
-### درباره نیک‌وی
-نیک‌وی مسیری زنده برای شناخت، طراحی، خلق و تکامل سیستم‌ها و بنگاه‌های اقتصادی است. این مخزن روایت مستندِ شکل‌گیری این مسیر را نگهداری می‌کند: از پرسش‌های بنیادین درباره وجود، هویت، زمینه، هدف و زبان تا مدل‌ها، حلقه‌های بازخورد، تصمیم‌ها، معماری و تجربه‌های واقعی اجرا.
+**نیک‌وی یک اکوسیستم برای شناخت، یادگیری، توسعه قابلیت و بهبود مستمر بنگاه‌های اقتصادی است.** هدف آن کمک به سازمان‌هاست تا از دانش و داده پراکنده به فهم مشترک، تصمیم‌های آگاهانه، اقدام مؤثر و نتایج قابل‌سنجش برسند.
 
-**این مسیر ادامه نیک‌وی است، نه یک پروژه پژوهشی مستقل.** توسعه پروژه‌های پیشین فعلاً متوقف در نظر گرفته شده است؛ دارایی‌ها و تاریخچه آن‌ها حفظ می‌شوند. این عبارت تصمیم مسیر را ثبت می‌کند و ادعای توقف فنی سرویس‌ها یا ایجنت‌های در حال اجرا نیست.
+نیک‌وی صرفاً یک نرم‌افزار، سامانه آموزشی، ابزار مدیریت پروژه یا مشاوره نیست؛ چشم‌انداز آن پیوند دادن **انسان، دانش، فرایند، فناوری و شواهد** در یک نظام منسجم و تکامل‌پذیر است.
 
-### اصول کار
-- **شناخت پیش از راه‌حل:** ناظر، کانتکست، هدف، شواهد و محدودیت‌ها را روشن می‌کنیم.
-- **رشد تدریجی:** از مفاهیم کوچک شروع می‌کنیم و با مدل، رابطه و بازخورد گسترش می‌دهیم.
-- **تفکیک واقعیت از فرضیه:** مشاهده، تفسیر، پیشنهاد، تصمیم و نتیجه را جدا ثبت می‌کنیم.
-- **ردیابی و حفظ تاریخ:** هر تغییر مهم با زمان، نسخه، منبع و دلیل قابل‌پیگیری است.
-- **یک مرجع، چند خروجی:** دانش و شواهد می‌توانند به کتاب، راهنما، Playbook و مدل تبدیل شوند.
-- **Local-first:** نگارش و نسخه‌بندی با Git به‌صورت محلی ممکن است؛ GitHub برای همگام‌سازی و همکاری به کار می‌رود.
+### چرا نیک‌وی وجود دارد؟
+سازمان‌ها اغلب با دانش پراکنده، زبان نامشترک، فاصله میان آموزش و عمل، تصمیم‌های کم‌پشتوانه و بهبودهای ناپایدار روبه‌رو هستند. نیک‌وی می‌خواهد این فاصله‌ها را با شناخت دقیق‌تر، توانمندسازی و اجرای بهبود کاهش دهد.
 
-### کتاب زنده
-**NIKWAY Beginning: From Questions to Systems** عنوان کاری روایت دوزبانه این مسیر است. محتوای فارسی و انگلیسی باید با شناسه‌ها و نسخه‌های مرتبط نگهداری شود. کتاب نهایی می‌تواند به شکل وب، PDF و EPUB منتشر شود؛ هیچ خروجی چاپی هنوز تأیید نشده است.
+### نیک‌وی برای چه کسانی است؟
+مخاطبان اصلی آن بنگاه‌ها و تیم‌هایی هستند که می‌خواهند قابلیت‌های سازمانی و عملکرد خود را توسعه دهند؛ از مدیران و کارکنان تا متخصصان، تسهیلگران و شرکای بهبود. تمرکز تجاری اولیه بر خدمات و تحول سازمانی B2B است؛ دامنه نهایی بازار هنوز باید اعتبارسنجی شود.
 
-### جریان مستندسازی
-```text
-Question / Observation
-        ↓
-Context & Evidence
-        ↓
-Concept / Model
-        ↓
-Analysis & Decision
-        ↓
-Action & Result
-        ↓
-Feedback & Learning
-        ↺
-Journal → Book / Handbook / Playbook
-```
+### نیک‌وی چگونه ارزش ایجاد می‌کند؟
+مسیر پیشنهادی ارزش‌آفرینی نیک‌وی:
 
-برای هر رویداد مهم، **زمان رخداد، زمان ثبت، منطقه زمانی، نویسنده/ناظر، شواهد، تصمیم و پیوند تغییرات** را تا حد دسترس ثبت می‌کنیم. زمان یا نتیجه نامعلوم باید «نامعلوم» باقی بماند.
+1. **شناخت:** فهم بنگاه، زمینه، ذی‌نفعان، نیازها و مسائل.
+2. **یادگیری:** ایجاد زبان مشترک و توسعه دانش و مهارت.
+3. **قابلیت:** تبدیل آموخته‌ها به توانایی سازمانی.
+4. **اقدام:** حل مسئله و اجرای تغییر در کار واقعی.
+5. **شواهد و سنجش:** بررسی نتایج و پیامدها.
+6. **بازخورد و بهبود:** اصلاح مدل‌ها، تصمیم‌ها و روش‌ها.
 
-### چارچوب‌ها و زبان‌ها
-ArchiMate، TOGAF، BIZBOK، BABOK، PMBOK، PRINCE2، KerML/SysML v2، RDF/OWL/SHACL، BPMN/DMN، System Dynamics، Petri Nets، DDD و سایر رویکردها منابع قابل‌بررسی‌اند؛ هیچ‌کدام بدون تصمیم و شواهد به‌عنوان معماری قطعی تحمیل نمی‌شوند.
+این مسیر خطی و یک‌باره نیست؛ حلقه‌های مرتبط و تکرارشونده دارد.
 
-### وضعیت
-این README آغاز روایت است. استاندارد مستندسازی **NB-DOC-001**، ساختار فصل‌ها، دفتر وقایع و Playbookها در مراحل بعدی به‌صورت نسخه‌دار ثبت خواهند شد. مخزن عمومی است؛ اطلاعات محرمانه، کلیدها و داده مشتری نباید در آن قرار بگیرند.
+### نیک‌وی چه چیزی را دنبال می‌کند؟
+- تبدیل دانش به قابلیت و قابلیت به اقدام.
+- پیوند دادن یادگیری با مسائل واقعی بنگاه.
+- افزایش شفافیت، کیفیت تصمیم و قابلیت ردیابی.
+- پشتیبانی از بهبود مستمر و عملکرد پایدار.
+- ساخت زبان و مدل‌های مشترک بدون حذف تفاوت زمینه‌ها و نیازهای سازمان‌ها.
+- استفاده مسئولانه از هوش مصنوعی برای افزایش سرعت و کیفیت، همراه با پاسخ‌گویی انسانی.
+
+### اصول هویتی
+**شناخت پیش از راه‌حل.** مسئله و زمینه را پیش از انتخاب ابزار بشناسیم.
+
+**انسان و مسئولیت.** فناوری و AI پشتیبان تصمیم‌اند، نه جایگزین خودکار پاسخ‌گویی انسانی.
+
+**شواهد پیش از ادعا.** فرضیه، پیشنهاد، تصمیم و نتیجه تأییدشده از هم جدا باشند.
+
+**مدل مشترک، نگاه‌های متفاوت.** هر سازمان هویت و زمینه خود را دارد و می‌تواند از منظرهای مختلف شناخته شود.
+
+**یادگیری از عمل.** بازخورد و تجربه واقعی باید به دانش و بهبود بعدی تبدیل شوند.
+
+### نیک‌وی چه چیزی نیست؟
+نیک‌وی با یک محصول نرم‌افزاری، یک مدل هوش مصنوعی، یک چارچوب مدیریتی یا یک مجموعه دوره آموزشی تعریف نمی‌شود. این‌ها می‌توانند ابزارها و اجزای اکوسیستم باشند، اما هویت و هدف وجودی آن را به‌تنهایی تعیین نمی‌کنند.
+
+### وضعیت و مسیر
+این مخزن عمومی، مرجع ثبت و تکامل تعریف، اصول، مدل‌ها، تصمیم‌ها و روایت شکل‌گیری NIKWAY خواهد بود. مسیر جدید از بنیادها آغاز می‌شود و دارایی‌های گذشته را بدون فرض صحت یا آمادگی اجرایی آن‌ها حفظ می‌کند. **تعریف هویتی و چشم‌انداز، ادعای پیاده‌سازی کامل یا اثبات نتایج تجاری نیست.**
 
 ---
 
 <a id="english"></a>
-## English
+## What is NIKWAY?
 
-### About NIKWAY
-NIKWAY is an evolving path for understanding, designing, creating, and improving systems and economic enterprises. This repository documents that journey, from foundational questions about existence, identity, context, purpose, and language to models, feedback loops, decisions, architecture, and evidence from actual work.
+**NIKWAY is an ecosystem for understanding, learning, capability development, and continuous improvement in economic enterprises.** It aims to help organizations move from fragmented knowledge and data toward shared understanding, informed decisions, effective action, and measurable outcomes.
 
-**This is a continuation of NIKWAY, not a separate research project.** Previous project development is currently on hold as a direction of work; existing assets and history are to be preserved. This does not certify that running services or agents have been technically stopped.
+NIKWAY is not merely software, a learning platform, a project management tool, or a consultancy. Its vision is to connect **people, knowledge, processes, technology, and evidence** in a coherent, evolving system.
 
-### Working principles
-- **Understand before solving:** clarify observer, context, purpose, evidence, and constraints.
-- **Grow incrementally:** build from small concepts, explicit relationships, models, and feedback.
-- **Separate evidence from assumptions:** distinguish observations, interpretations, proposals, decisions, and outcomes.
-- **Preserve traceability:** record relevant timestamps, versions, sources, and rationale.
-- **One source, multiple outputs:** reuse grounded content for books, handbooks, playbooks, and models.
-- **Local-first:** work and commit locally with Git, then synchronize through GitHub.
+### Why does NIKWAY exist?
+Organizations often face fragmented knowledge, inconsistent terminology, a gap between learning and practice, decisions with insufficient evidence, and improvements that do not last. NIKWAY seeks to narrow these gaps through better understanding, capability building, and improvement in real work.
 
-### The Living Book
-**NIKWAY Beginning: From Questions to Systems** is the working title of the bilingual narrative. Persian and English editions should have linked content identities and version histories. Web, PDF, and EPUB are target formats, not yet validated releases.
+### Who is it for?
+NIKWAY is intended for enterprises and teams seeking to develop organizational capabilities and performance, including leaders, employees, specialists, facilitators, and improvement partners. The initial commercial focus is B2B organizational improvement and transformation; market scope remains subject to validation.
 
-### Documentation flow
-Question → Context & Evidence → Concept / Model → Analysis & Decision → Action & Result → Feedback & Learning.
+### How does it create value?
+Its proposed value-creation path connects:
 
-Historical journal entries, curated book chapters, operational playbooks, and decision records serve different purposes and should link to one another rather than duplicate facts.
+1. **Understanding:** enterprise context, stakeholders, needs, and problems.
+2. **Learning:** shared language, knowledge, and skills.
+3. **Capability:** turning learning into organizational ability.
+4. **Action:** solving problems and making changes in real work.
+5. **Evidence and measurement:** examining results and outcomes.
+6. **Feedback and improvement:** refining models, decisions, and methods.
 
-### Status and governance
-This README establishes the initial direction. The proposed documentation standard **NB-DOC-001**, chapter structure, event journal, and playbooks will be added through traceable changes. All claims of implementation, approval, or validation require evidence. Never publish secrets, private records, or customer data.
+These are connected, recurring loops rather than a one-time linear sequence.
 
----
+### What does NIKWAY seek to achieve?
+- Turn knowledge into capability and capability into action.
+- Connect learning to real organizational challenges.
+- Improve clarity, decision quality, and traceability.
+- Support continuous improvement and sustainable performance.
+- Enable shared concepts and models while respecting organizational context.
+- Use AI responsibly to improve speed and quality while preserving human accountability.
 
-**Repository:** [alikhosravi90/Nikway](https://github.com/alikhosravi90/Nikway)  
-**Document status:** Initial README · **Language:** FA / EN
+### Guiding principles
+**Understand before solving.** Examine the problem and context before choosing tools.
+
+**People remain accountable.** Technology and AI support, rather than automatically replace, human responsibility.
+
+**Evidence before claims.** Keep hypotheses, proposals, decisions, and verified outcomes distinct.
+
+**Shared models, multiple perspectives.** Preserve enterprise identity and context across different viewpoints.
+
+**Learn from action.** Feed observed outcomes and experience into future knowledge and improvement.
+
+### What NIKWAY is not
+NIKWAY is not defined by a single software product, AI model, management framework, or training catalogue. These may support the ecosystem, but none alone determines its identity or purpose.
+
+### Status and direction
+This public repository will document and evolve NIKWAY's identity, principles, models, decisions, and creation story. The new path begins with foundations while preserving prior assets without assuming their correctness or operational readiness. **A vision and identity statement are not evidence of complete implementation or validated commercial outcomes.**
