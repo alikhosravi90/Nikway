@@ -1,6 +1,6 @@
 # NIKWAY English Glossary
 
-**Version:** 0.1.0  
+**Version:** 1.0.0  
 **Status:** Proposed
 
 This glossary links core terms to the preferred Persian words. Keep official product names, standard names, and technical identifiers unchanged.
