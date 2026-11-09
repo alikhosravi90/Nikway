@@ -1,0 +1,34 @@
+{
+  "owner": "curriculum-editor",
+  "date": "2026-11-09",
+  "version": "0.1",
+  "venture_type": [
+    "services",
+    "digital"
+  ],
+  "geography": [],
+  "scope": "synthetic teaching example",
+  "source_links": [],
+  "confidence": "unknown",
+  "risks": [
+    "unvalidated demand"
+  ],
+  "id": "EXP-001",
+  "title": "Discovery interviews and pilot offer test",
+  "domain": "06",
+  "status": "draft",
+  "assumptions": [
+    "12 interviews and 5 qualified pilot offers may provide useful directional evidence"
+  ],
+  "evidence": [
+    {
+      "id": "E-SYN-001",
+      "kind": "synthetic",
+      "summary": "Proposed test design only; no interviews conducted",
+      "source": "business-creation/examples/evidence-chain.fa.md",
+      "limitations": "Not real market evidence"
+    }
+  ],
+  "decision": null,
+  "next_action": "Approve success threshold and conduct consented interviews"
+}
