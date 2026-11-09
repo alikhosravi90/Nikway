@@ -1,0 +1,27 @@
+{
+  "owner": "curriculum-editor",
+  "date": "2026-11-09",
+  "version": "0.1",
+  "venture_type": [
+    "services",
+    "digital"
+  ],
+  "geography": [],
+  "scope": "synthetic teaching example",
+  "source_links": [],
+  "confidence": "unknown",
+  "risks": [
+    "unvalidated demand"
+  ],
+  "id": "HYP-001",
+  "title": "Willingness to pay for cross-functional improvement pilot",
+  "domain": "03",
+  "status": "hypothesis",
+  "assumptions": [
+    "Qualified small organizations experience costly cross-functional rework",
+    "Economic buyer may fund a pilot"
+  ],
+  "evidence": [],
+  "decision": null,
+  "next_action": "Approve interview protocol"
+}
