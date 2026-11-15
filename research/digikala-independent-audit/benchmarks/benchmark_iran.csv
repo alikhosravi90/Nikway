@@ -1,0 +1,7 @@
+entity,model,scope,metric,comparison,status,notes
+باسلام,marketplace,فروشنده و کالا,فروشنده/شکایت,NOT_AVAILABLE,NOT_COMPARABLE,داده عمومی هم‌تعریف جمع‌آوری نشده
+اسنپ‌شاپ,store/marketplace,خرده‌فروشی آنلاین,لجستیک/مرجوعی,NOT_AVAILABLE,NOT_COMPARABLE,مدل و شاخص‌ها متفاوت
+ترب,comparison engine,جست‌وجوی قیمت,رضایت فروشنده,QUALITATIVE_ONLY,PARTIAL,فاقد مدل بازارگاه همسان
+ایمالز,comparison engine,جست‌وجوی قیمت,شفافیت قیمت,QUALITATIVE_ONLY,PARTIAL,شاخص عملکردی کیفی ممکن است
+دیوار,classifieds,آگهی/همتا به همتا,اعتراض و ایمنی,QUALITATIVE_ONLY,PARTIAL,دامنه تراکنش متفاوت
+شیپور,classifieds,آگهی/همتا به همتا,اعتراض و ایمنی,QUALITATIVE_ONLY,PARTIAL,دامنه تراکنش متفاوت

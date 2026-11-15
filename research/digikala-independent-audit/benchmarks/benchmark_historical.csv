@@ -1,0 +1,8 @@
+metric,period,value,unit,definition,source_id,method_change,comparability,status
+seller_count,1396-1401,5728|21030|60014|152406|249333|308203,count,reported sellers by year,SRC-ANNUAL-1401,not documented,PARTIAL,SELF_REPORTED
+seller_count,1402,418000,count,reported sellers,SRC-ANNUAL-1402,active vs registered unclear,LOW,SELF_REPORTED
+seller_count,1403,466169,count,active sellers as reported by secondary source,SRC-DIGIATO-1403,primary report not archived here,LOW,PARTIALLY_VERIFIED
+catalog_items,1402,12500000,count,available items,SRC-ANNUAL-1402,definition needs confirmation,PARTIAL,SELF_REPORTED
+on_time_delivery,1402,93.8,percent,on-time shipment,SRC-DIGIATO-1402,denominator and SLA missing,LOW,SELF_REPORTED
+employees,1402,12260,count,group employees,SRC-DIGIATO-1402,group boundary and contractors unclear,LOW,SELF_REPORTED
+complaints_returns,1401-1404,NOT_AVAILABLE,,raw comparable series,none,not published in collected sources,NONE,NOT_AVAILABLE

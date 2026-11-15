@@ -1,0 +1,7 @@
+claim_id,stakeholder_area,public_claim_or_signal,source_id,evidence_type,independent_evidence,contrary_or_missing,impact_level,status,verification_next_step
+CSR-SELLERS,Community,حمایت از فروشندگان و کسب‌وکارهای کوچک,SRC-ANNUAL-1402,گزارش شرکتی,گزارش مستقل درباره برخی ارقام مقیاس,قرارداد و توزیع درآمد خام موجود نیست,high,SELF_REPORTED,دریافت قرارداد نسخه‌دار و داده توزیع درآمد
+CSR-EMP,Labour,اشتغال و نیروی انسانی در گروه,SRC-DIGIATO-1402,نقل گزارش,رسانه رقم ۱۲۲۶۰ را نقل کرده,پیمانکاران/ایمنی/رفاه/ترک خدمت نامشخص,high,SELF_REPORTED,تفکیک کارکنان مستقیم و پیمانکار و شاخص ایمنی
+CSR-CUSTOMER,Consumers,ارائه تجربه خرید و پشتیبانی,SRC-ANNUAL-1402,گزارش عملکرد,داده مستقل خام شکایت در دسترس نیست,نرخ حل و remedy نامشخص,high,INSUFFICIENT_EVIDENCE,درخواست داده شکایت، مرجوعی و زمان پاسخ
+CSR-ENV,Environment,کاهش اثرات لجستیک و بسته‌بندی,none,ادعا/نیاز پژوهش,منبع معتبر ثبت نشده,خط مبنا و مقدار مطلق منتشر نشده,medium,NOT_AVAILABLE,جست‌وجوی گزارش پایداری و داده بسته‌بندی
+CSR-FAIR,Trade,رقابت میان فروشندگان و جعبه خرید,SRC-DIGIATO-1402,نقل سازوکار,شرح سازوکار عمومی,معیار رتبه‌بندی و اعتراض فروشنده نامعلوم,high,PARTIALLY_VERIFIED,مستندسازی الگوریتم/سیاست و حق اعتراض
+CSR-HR,Human Rights,سازوکار remedy و رسیدگی به آثار منفی,none,چارچوب هنجاری UN,سند عملیاتی عمومی پیدا نشده,داده ارزیابی اثر حقوق بشر موجود نیست,high,NOT_AVAILABLE,درخواست سیاست و گزارش due diligence

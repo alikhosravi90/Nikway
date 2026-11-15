@@ -1,0 +1,6 @@
+entity,model,metric,period,value,unit,comparability,source,status,reason
+Amazon,marketplace+retail,seller rights,2020-2025,NOT_AVAILABLE,,NOT_COMPARABLE,,NOT_AVAILABLE,definitions and geography differ
+Mercado Libre,marketplace+payments,customer complaints,2020-2025,NOT_AVAILABLE,,NOT_COMPARABLE,,NOT_AVAILABLE,non-equivalent disclosure
+eBay,marketplace,seller policy transparency,2020-2025,qualitative review required,,QUALITATIVE,,PARTIAL,policy pages can be compared after archival
+Alibaba,ecosystem,logistics/service quality,2020-2025,NOT_AVAILABLE,,NOT_COMPARABLE,,NOT_AVAILABLE,group boundary and markets differ
+Zalando,platform+retail,sustainability disclosure,2020-2025,qualitative review required,,QUALITATIVE,,PARTIAL,reporting framework differs
