@@ -1,0 +1,6 @@
+benchmark_id,dimension,entity,period,metric,value,unit,comparability,source_id,notes
+B-HIST-SELLERS,DigiKala historical,دیجی‌کالا,۱۳۹۶-۱۴۰۱,فروشندگان,5728|21030|60014|152406|249333|308203,count,PARTIAL,SRC-ANNUAL-1401,تعریف و روش شمارش باید ثابت‌سازی شود.
+B-HIST-SELLERS-1402,DigiKala historical,دیجی‌کالا,۱۴۰۲,فروشندگان,418000,count,PARTIAL,SRC-ANNUAL-1402,عدد گزارش شرکتی؛ فعال/ثبت‌شده نامشخص.
+B-HIST-SELLERS-1403,DigiKala historical,دیجی‌کالا,۱۴۰۳,فروشندگان فعال,466169,count,LOW,SRC-DIGIATO-1403,تعریف شاخص و نسخه اولیه گزارش لازم است.
+B-GLOBAL-AMAZON,Global candidate,Amazon,نامشخص,فروشندگان/GMV,نامشخص,,,UNAVAILABLE,تعریف و دوره هم‌تراز با دیجی‌کالا هنوز گردآوری نشده.
+B-IRAN-BASALAM,Iran candidate,باسلام,نامشخص,فروشندگان/شکایت,نامشخص,,,UNAVAILABLE,مدل و داده قابل مقایسه باید جداگانه بررسی شود.

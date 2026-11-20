@@ -1,0 +1,7 @@
+narrative_id,social_source_id,stakeholder,topic,sentiment,claim_summary,company_response,independent_support,scope_limit,assessment
+N-ONBOARD-01,SOC-LI-ONBOARD,فروشنده,شفافیت/پشتیبانی,negative,ادعای گیرکردن فرایند احراز و چرخه خطا,پاسخ پشتیبانی: تماس گرفته شد و مشکل برطرف شد,none,روایت یک فروشنده,CONFLICTING_ACCOUNTS
+N-SETTLEMENT-01,SOC-TG-MKT,فروشندگان,تسویه/کارمزد,neutral,کانال رسمی آموزش وضعیت تراکنش و تسویه زودهنگام,توضیح رسمی در خود کانال,none,محتوای سازوکار نه نتیجه,SELF_REPORTED_PROCESS
+N-RETURN-01,SOC-LI-RET,مشتری,مرجوعی/کیفیت,negative,ادعای کالای مغایر و بی‌پاسخی طولانی,Digikala.Support درخواست کد سفارش کرده,none,روایت فردی و کد سفارش نامشخص,UNVERIFIED_CLAIM
+N-PANEL-01,SOC-LI-EMP,فروشنده,فرایند/UX,negative,ادعای دشواری پنل فروشنده,پاسخ رسمی دیده نشد,none,نمونه فردی,UNVERIFIED_CLAIM
+N-DELIVERY-01,SOC-LI-DELIVERY,مشتری,کیفیت خدمات/پشتیبانی,negative,ادعای تأخیر و ضعف پشتیبانی,پاسخ قابل مشاهده در نتیجه جست‌وجو ثبت نشد,none,قدیمی و فردی,UNVERIFIED_CLAIM
+N-OFFICIAL-MIXED,SOC-LI-OFFICIAL,مشتری/کارکنان,پاسخ‌گویی,conflicting,پست رسمی با نظرات مثبت درباره کارکنان و ادعای تأخیر مرجوعی در نظرها,پاسخ رسمی در همان صفحه یا کامنت‌ها در برخی موارد,none,نمونه نظرات انتخاب‌شده,CONFLICTING_NARRATIVES

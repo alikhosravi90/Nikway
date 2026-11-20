@@ -1,0 +1,9 @@
+validation_id,metric,year,reported_value,unit,source_id,primary_or_secondary,definition_quality,comparability,contradictory_evidence,status,next_step
+HDV-1398-SELLERS,seller_count,1398,60014,count,SRC-ANNUAL-1401,primary_self_report,medium,PARTIAL,none,SELF_REPORTED,archive original 1398 report
+HDV-1399-SELLERS,seller_count,1399,152406,count,SRC-ANNUAL-1401,primary_self_report,medium,PARTIAL,none,SELF_REPORTED,archive original 1399 report
+HDV-1400-SELLERS,seller_count,1400,249333,count,SRC-ANNUAL-1401,primary_self_report,medium,PARTIAL,none,SELF_REPORTED,archive original 1400 report
+HDV-1401-SELLERS,seller_count,1401,308203,count,SRC-ANNUAL-1401,primary_self_report,medium,PARTIAL,none,SELF_REPORTED,confirm active definition
+HDV-1402-SELLERS,seller_count,1402,418000,count,SRC-ANNUAL-1402,primary_self_report,low_medium,LOW,none,SELF_REPORTED,obtain primary report and methodology
+HDV-1403-SELLERS,seller_count,1403,466169,count,SRC-DIGIATO-1403,secondary,low,LOW,none,PARTIALLY_VERIFIED,obtain primary report
+HDV-1404-SELLERS,seller_count,1404,NOT_AVAILABLE,count,,none,none,NONE,none,NOT_AVAILABLE,search official 1404 report archive
+HDV-1398-1404-COMPLAINTS,complaints_returns,1398-1404,NOT_AVAILABLE,,none,none,none,NONE,none,NOT_AVAILABLE,request raw series

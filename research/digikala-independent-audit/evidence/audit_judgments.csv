@@ -1,0 +1,7 @@
+judgment_id,domain,scope,what_we_know,evidence_ids,inference,alternative_explanation,grade,confidence,status,what_could_change_judgment
+J-TRANS-01,Transparency,گزارش‌دهی عمومی,گزارش‌های سالانه و صفحات رسمی قابل بازیابی‌اند,SRC-ANNUAL-1401|SRC-ANNUAL-1402|SRC-DMBOARD-1402,اطلاعات پایه و بخشی از KPIها منتشر می‌شود,Evolving reporting practice or selective disclosure,C,Medium,Provisional,نسخه رسمی و assurance مستقل شاخص‌ها
+J-SELLER-SUPPORT,Operations,فروشنده و پشتیبانی,سازوکار آموزش تسویه و پاسخ موردی عمومی دیده شد,SOC-TG-MKT|SOC-LI-ONBOARD,فرایند تعریف شده اما کیفیت پایدار اثبات نشده,C,Low,Provisional,داده SLA و نرخ حل مستقل
+J-CUSTOMER-REMEDY,Consumers,مرجوعی/شکایت,روایت‌های منفی فردی و پاسخ‌های موردی وجود دارد,SOC-LI-RETURN|SOC-LI-DELIVERY|SOC-LI-OFFICIAL,برای سطح سازمانی شواهد کافی نیست,U,Low,Provisional,سری زمانی شکایت و مرجوعی و نمونه‌گیری نماینده
+J-CSR,CSR,اثر اجتماعی,ادعا و خروجی گزارش‌شده وجود دارد اما اثر مستقل نیست,CSR-SELLERS|CSR-EMP|CSR-CUSTOMER,اقدام/گزارش از اثر اثبات‌شده جداست,C,Low,Provisional,شاخص اثر و assurance
+J-CULTURE,Organizational culture,فرهنگ و رهبری,شواهد عمومی رفتار رهبری/فرهنگ کافی نیست,SRC-SHINGO|SOC-LI-OFFICIAL,قضاوت فرهنگ باید U بماند,U,Unknown,Provisional,مصاحبه ناشناس و مشاهده میدانی
+J-HISTORICAL,Historical,روند فروشندگان,روند عددی گزارش‌شده با تعریف‌های ناهماهنگ,HDV-1398-SELLERS|HDV-1403-SELLERS,مقیاس رشد کرده اما بهره‌وری/کیفیت قابل نتیجه‌گیری نیست,C,Low,Provisional,واژه‌نامه و گزارش‌های رسمی کامل
